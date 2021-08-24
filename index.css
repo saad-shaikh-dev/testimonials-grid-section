@@ -69,12 +69,6 @@ img {
 .text-light-50 {
   color: hsla(0, 0%, 100%, 0.5);
 }
-.light-circle {
-  border: 1px solid white;
-}
-.accent-circle {
-  border: 1px solid var(--moderate-violet);
-}
 .card > .heading {
   font-weight: 600;
   font-size: 1.75em;
